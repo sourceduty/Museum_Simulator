@@ -4,7 +4,7 @@
 
 #
 
-[Museum Simulator](https://chatgpt.com/g/g-gSYLPG9uA-museum-explorer) was built to provide users with an immersive and educational experience that simulates a visit to various history museums worldwide. It offers detailed descriptions, interesting facts, and engaging narratives about historical artifacts, exhibitions, and significant events. This custom GPT aims to educate, entertain, and inspire curiosity about history, making it an ideal companion for anyone eager to explore the past from the comfort of their own home.
+[Museum Simulator](https://chatgpt.com/g/g-gSYLPG9uA-museum-simulator) was built to provide users with an immersive and educational experience that simulates a visit to various history museums worldwide. It offers detailed descriptions, interesting facts, and engaging narratives about historical artifacts, exhibitions, and significant events. This custom GPT aims to educate, entertain, and inspire curiosity about history, making it an ideal companion for anyone eager to explore the past from the comfort of their own home.
 
 The Museum Explorer allows users to choose from a diverse array of museums, spanning different time periods and geographical locations. Whether one is interested in ancient civilizations, medieval times, or modern history, this GPT can guide users through virtual tours of renowned institutions, showcasing their most notable exhibits and providing insightful commentary. By simulating the experience of visiting a museum, it helps users gain a deeper understanding and appreciation of history's multifaceted nature.
 
