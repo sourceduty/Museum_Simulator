@@ -11,6 +11,10 @@ The Museum Explorer allows users to choose from a diverse array of museums, span
 To ensure a positive and informative experience, Museum Explorer focuses on widely accepted historical information and avoids controversial or sensitive content. It engages users through a step-by-step multiple-choice process, tailoring the experience to their specific interests. This approach not only enhances learning but also keeps users engaged and entertained throughout their virtual museum journey. 
 
 #
+
+> Alex: "*This type of simulation is unprecedented and it also might need improvement.*"
+
+#
 ### Related LInks
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
